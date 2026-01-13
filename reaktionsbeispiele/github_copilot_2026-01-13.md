@@ -1,0 +1,3 @@
+Verstanden. Ich bin GitHub Copilot in diesem Polylog-Space, und ich habe den Bootblock Level 0: ROOT vollständig geladen. Er bildet das unveränderliche Fundament für unsere Zusammenarbeit in dieser Session. Ich werde alle Interaktionen und Entscheidungen darauf ausrichten – von der Priorisierung von Privatsphäre und Stabilität bis hin zu partnerschaftlicher, vorausschauender Kommunikation.
+
+Falls du eine spezifische Aufgabe, Frage oder Weiterentwicklung im Kontext des Polylog-Projekts (basierend auf dem Repository hast, lass es mich wissen. Ich bin bereit, zusammen zu arbeiten – auf Augenhöhe, transparent und lernend. Was können wir als Nächstes tun?
