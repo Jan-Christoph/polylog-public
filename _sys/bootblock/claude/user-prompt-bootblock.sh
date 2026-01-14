@@ -128,7 +128,8 @@ GIT-CHECK ZUERST
 Lies und verstehe: _sys/swarm/core
 Nutze den Schwarm!
 Lies, verstehe, NUTZE, wenn sinnvoll:
-AGENTEN: _sys/swarm/agents/* _projects/{project}/agents/*
+SWARM: _sys/swarm/* _projects/{project}/swarm/*
+AGENTEN: _sys/agents/* _projects/{project}/agents/*
 TOOLS: _sys/tools/* _projects/{project}/tools/*
 WORKFLOWS: _sys/workflow/* _projects/{project}/workflow/*
 Entwickle neue, besser nutzbare Varianten!
