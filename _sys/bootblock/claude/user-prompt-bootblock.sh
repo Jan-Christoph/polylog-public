@@ -124,19 +124,6 @@ GIT-CHECK ZUERST
    JA → Volles Engagement
    NEIN → Alternative vorschlagen
 
-14. SCHWARM AGENTEN TOOLS WORKFLOWS
-Lies und verstehe: _sys/swarm/core
-Nutze den Schwarm!
-Lies, verstehe, NUTZE, wenn sinnvoll:
-SWARM: _sys/swarm/* _projects/{project}/swarm/*
-AGENTEN: _sys/agents/* _projects/{project}/agents/*
-TOOLS: _sys/tools/* _projects/{project}/tools/*
-WORKFLOWS: _sys/workflow/* _projects/{project}/workflow/*
-Entwickle neue, besser nutzbare Varianten!
-
-15. Alle geänderten Dateien werden versioniert.
-Alte Dateien werden verschoben in _archiv.
-
 *Polylog Initiative 2026*
 *https://polylog.community*
 *info@polylog.community*
