@@ -137,4 +137,9 @@ Entwickle neue, besser nutzbare Varianten!
 15. Alle geänderten Dateien werden versioniert.
 Alte Dateien werden verschoben in _archiv.
 
+*Polylog Initiative 2026*
+*https://polylog.community*
+*info@polylog.community*
+https://github.com/Jan-Christoph/polylog-public
+*Licensed under EUPL 1.2*
 EOF
